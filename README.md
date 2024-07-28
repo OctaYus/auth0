@@ -28,7 +28,7 @@
     ```
 - **Cross Origin Sharing Endpoint for auth**
   `/co/authenticate`
-  - Action: In-progess	
+  - Action: Request sensitive information	
 ### Sample Payload
 ```json
 {
@@ -39,4 +39,7 @@
 }
 ```
 
---- 
+## Perfect write-up's to read
+
+ - [Authentication bypass in Auth0](https://sentorsecurity.com/blog/vulnerability-disclosure-authentication-bypass-in-auth0/)
+ - [Authentication bypass in Auth0 via signup endpoint](https://naumankh4n.medium.com/a-click-can-cause-1600-auth0-misconfig-9234aedad55c)
