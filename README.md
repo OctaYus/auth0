@@ -26,7 +26,7 @@
       "connection": "Username-Password-Authentication"
     }
     ```
-- **Cross Origin Sharing Endpoint for auth**
+- **Cross Origin Resource Sharing Endpoint for auth**
   `/co/authenticate`
   - Action: Request sensitive information	
 ### Sample Payload
