@@ -1,4 +1,3 @@
----
 
 ## Test for DB Connections Misconfigurations
 
