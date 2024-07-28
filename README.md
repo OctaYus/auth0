@@ -9,7 +9,7 @@
 - **Signup Endpoint**:  
   `/dbconnections/signup`
   - Action: Signup with a new user
-  - ***Sample Request
+  - ***Sample Request***
   - ```request
     POST /dbconnections/signup HTTP/2
     Host: smg-re-is24-prod.eu.auth0.com
