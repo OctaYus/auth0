@@ -1,5 +1,3 @@
-I'll organize and clean up the content for you:
-
 ---
 
 ## Test for DB Connections Misconfigurations
